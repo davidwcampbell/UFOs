@@ -1,1 +1,3 @@
-# UFOs
+# UFO Sightings Around the World
+
+In this challenge, we used JavaScript, HTML, and CSS to create a webpage that features different UFO sightings around the world. We were given data on the UFO sightings and we had to organize it in a JavaScript array. We then developed a website using HTML and styled it using CSS. Also, we developed an application in JavaScript that would allow us to filter the sighting data by five fields: Date, City, State, Country, and Shape. An additional task that could perform on this data would be to clean the data fully. The descriptions could benefit from cleaning up some residual HTML code. The City, State, and Country should all be capitalized.
